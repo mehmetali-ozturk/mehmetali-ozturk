@@ -25,4 +25,4 @@ This web portfolio aims to provide a user-friendly and engaging experience, foll
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([linkedin-link](https://www.linkedin.com/in/mehmet-ali-ozturk-/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehmetali.ozturk@hotmail.com)
