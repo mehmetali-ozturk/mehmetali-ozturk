@@ -24,5 +24,5 @@ My goal is to develop high-quality, scalable applications that provide real valu
 This web portfolio aims to provide a user-friendly and engaging experience, following modern web design principles. With its responsive design, the portfolio works seamlessly across various screen sizes (desktop, tablet, mobile). The clean and minimalist design focuses attention on the content, presenting a professional and polished image.
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([linkedin-link](https://www.linkedin.com/in/mehmet-ali-ozturk-/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-ozturk-/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehmetali.ozturk@hotmail.com)
