@@ -22,6 +22,8 @@ My goal is to develop high-quality, scalable applications that provide real valu
 ## 🌟 Featured Projects
 ### [Web Portfolio](https://github.com/mehmetali-ozturk/web-portfolio)
 This web portfolio aims to provide a user-friendly and engaging experience, following modern web design principles. With its responsive design, the portfolio works seamlessly across various screen sizes (desktop, tablet, mobile). The clean and minimalist design focuses attention on the content, presenting a professional and polished image.
+###[WestLA Online](https://westla.online/)
+A comprehensive roleplay game management system built with Next.js, TypeScript, and Tailwind CSS. Integrated with Supabase for backend functionality and Amazon S3 Bucket for image storage. The platform features user registration and application system for new roleplay team members, player complaint and reporting system, personnel directory and information pages. Users can authenticate to view and edit their information, and communicate by sending photos, PDFs, and emails to each other. Administrative panel allows team managers to add/edit members, customize site themes, manage application forms, and handle disciplinary actions including opening investigations and issuing penalties.
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-ozturk-/)
