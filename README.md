@@ -1,31 +1,75 @@
-# 👋 Hi, I'm Mehmet Ali
+# Hi, I'm Mehmet Ali 👋
 
-## 🚀 About Me
-I am a passionate software developer with experience in various technologies and frameworks. I love creating innovative solutions and learning new technologies.
+Software developer focused on building scalable web applications with clean architecture. I enjoy solving real-world problems and writing code that is easy to maintain and extend.
 
-My goal is to develop high-quality, scalable applications that provide real value to users while continuously improving my skills and knowledge in the field.
+---
 
-## 🛠️ My Tech Stack
+## Tech Stack
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetali-ozturk&show_icons=true&theme=radical)
+---
 
-## 🌟 Featured Projects
-### [Web Portfolio](https://github.com/mehmetali-ozturk/web-portfolio)
-This web portfolio aims to provide a user-friendly and engaging experience, following modern web design principles. With its responsive design, the portfolio works seamlessly across various screen sizes (desktop, tablet, mobile). The clean and minimalist design focuses attention on the content, presenting a professional and polished image.
+## Projects
 
-### [WestLA Online](https://westla.online/)
-A comprehensive roleplay game management system built with Next.js, TypeScript, and Tailwind CSS. Integrated with Supabase for backend functionality and Amazon S3 Bucket for image storage. The platform features user registration and application system for new roleplay team members, player complaint and reporting system, personnel directory and information pages. Users can authenticate to view and edit their information, and communicate by sending photos, PDFs, and emails to each other. Administrative panel allows team managers to add/edit members, customize site themes, manage application forms, and handle disciplinary actions including opening investigations and issuing penalties.
+### [Movier](https://movier-nine.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/mehmetali-ozturk/movier)
 
-## 📫 Connect With Me
+Swipe-based movie discovery app that tackles decision fatigue through an intuitive interface. Supports both anonymous (local storage) and authenticated (Supabase cloud sync) usage.
+
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Framer Motion · Supabase · TMDB API
+
+<details>
+<summary>Features</summary>
+
+- Swipe UI for like / skip interactions
+- Watchlist panel with batched detail loading
+- Movie details modal and trailer support
+- Supabase authentication — email/password + Google OAuth
+- Cloud watchlist sync (stores only `movie_id`)
+- Avatar upload via Supabase Storage
+- Server-side TMDB proxy (`/api/tmdb`) with short-lived cache
+
+</details>
+
+---
+
+### [WestLA PD](https://westlapd.com) &nbsp;·&nbsp; [GitHub](https://github.com/mehmetali-ozturk/westla)
+
+Roleplay game management platform built for a structured team environment. Handles everything from member onboarding to internal communications and disciplinary workflows.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase · Amazon S3
+
+<details>
+<summary>Features</summary>
+
+- User registration and application system for new team members
+- Player complaint and reporting system
+- Personnel directory and profile pages
+- Authenticated users can view and edit their own information
+- In-platform messaging with photo, PDF, and email support
+- Admin panel for managing members, site themes, application forms, and disciplinary actions
+
+</details>
+
+---
+
+### [Portfolio](https://mehmetali.tech) &nbsp;·&nbsp; [GitHub](https://github.com/mehmetali-ozturk/web-portfolio)
+
+Personal portfolio with responsive design and a clean, minimalist aesthetic. Works across desktop, tablet, and mobile.
+
+---
+
+## Contact
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-ozturk-/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehmetali.ozturk@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/-mehmetali.tech-000000?style=flat-square&logo=vercel&logoColor=white)](https://mehmetali.tech)
