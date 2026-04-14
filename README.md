@@ -62,12 +62,6 @@ Roleplay game management platform built for a structured team environment. Handl
 
 ---
 
-### [Portfolio](https://mehmetali.tech) &nbsp;·&nbsp; [GitHub](https://github.com/mehmetali-ozturk/web-portfolio)
-
-Personal portfolio with responsive design and a clean, minimalist aesthetic. Works across desktop, tablet, and mobile.
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-ozturk-/)
